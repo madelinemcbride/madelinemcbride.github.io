@@ -3,7 +3,6 @@ logo: "images/profile pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Some work samples. I worked very hard on this website, thank you.
   <br><br>
-  <br><br>
   <a href="https://www.linkedin.com/in/madeline-mcbride-a0240182/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

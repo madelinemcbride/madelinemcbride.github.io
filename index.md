@@ -4,42 +4,42 @@
 
 ### Category Name 1 
 
-[Itasca Wilderness Park](/sample_page)
+[Itasca Wilderness Park]
 <img src="images/Itasca_export.png"/>
 
 ---
-[Tea and Coffee Exports. Flow Lines.](/pdf/sample_presentation.pdf)
+[Tea and Coffee Exports. Flow Lines.]
 <img src="images/TeaCoffee3.png"/>
 
 ---
-[Population Change in Minnesota](http://example.com/)
+[Population Change in Minnesota]
 <img src="images/mcbride_ex08_1103.pdf"/>
 
 ---
-[Demographic Profile: El Paso (1/3)](http://example.com/)
+[Demographic Profile: El Paso (1/3)]
 <img src="images/hispanic_pop_density_elPaso.jpg"/>
 
 
 ---
-[Demographic Profile: El Paso (3/3)](http://example.com/)
+[Demographic Profile: El Paso (3/3)]
 <img src="images/black_pop_density_elPaso.jpg"/>
 
 
 ---
-[Demographic Profile: El Paso (3/3)](http://example.com/)
+[Demographic Profile: El Paso (3/3)]
 <img src="images/white_pop_density_elPaso.jpg"/>
 
 
 ---
-[Demographic Profile: Biloxi, MS MSA (1/3)](http://example.com/)
+[Demographic Profile: Biloxi, MS MSA (1/3)]
 <img src="images/Biloxi_MSA_blockgroups_Biloxi.jpg"/>
 
 ---
-[Demographic Profile: Biloxi, MS MSA (2/3)](http://example.com/)
+[Demographic Profile: Biloxi, MS MSA (2/3)]
 <img src="images/Biloxi_MSA_blockgroups_Gulfport.jpg"/>
 
 ---
-[Demographic Profile: Biloxi, MS MSA (3/3)](http://example.com/)
+[Demographic Profile: Biloxi, MS MSA (3/3)]
 <img src="images/Biloxi_MSA_blockgroups_Pascagoula.jpg"/>
 
 ---
